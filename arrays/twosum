@@ -1,0 +1,101 @@
+# Two Sum
+
+## Problem
+
+Given an array of integers and a target, find two numbers whose sum equals the target.
+
+---
+
+## 1. Brute Force
+
+Check every possible pair.
+
+**Time:** O(n²)
+**Space:** O(1)
+
+---
+
+## 2. HashMap
+
+Store previously seen numbers and check whether the required complement exists.
+
+**Time:** O(n)
+**Space:** O(n)
+
+This is the standard optimal solution for the usual unsorted-array Two Sum problem.
+
+---
+
+## Edge Cases
+
+* Duplicate numbers
+* Negative numbers
+* Target = 0
+* No valid pair
+* Array with only two elements
+
+Brute Force — O(n²)
+import java.util.*;
+
+class Main {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            arr[i] = sc.nextInt();
+        }
+
+        int target = sc.nextInt();
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+
+                if (arr[i] + arr[j] == target) {
+                    System.out.println(i + " " + j);
+                    return;
+                }
+            }
+        }
+
+        System.out.println("-1 -1");
+    }
+}
+
+Optimal — HashMap O(n)
+import java.util.*;
+
+class Main {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            arr[i] = sc.nextInt();
+        }
+
+        int target = sc.nextInt();
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < n; i++) {
+
+            int needed = target - arr[i];
+
+            if (map.containsKey(needed)) {
+                System.out.println(map.get(needed) + " " + i);
+                return;
+            }
+
+            map.put(arr[i], i);
+        }
+
+        System.out.println("-1 -1");
+    }
+}
