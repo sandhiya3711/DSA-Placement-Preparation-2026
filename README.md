@@ -189,6 +189,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +272,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0931-minimum-falling-path-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0935-knight-dialer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0935-knight-dialer/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,4 +408,16 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+## Meet in the Middle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
 <!---LeetCode Topics End-->
