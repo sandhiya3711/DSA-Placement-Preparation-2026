@@ -223,6 +223,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0929-unique-email-addresses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0929-unique-email-addresses/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0936-stamping-the-sequence/) | Hard |
 | [0937-reorder-data-in-log-files](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0937-reorder-data-in-log-files/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +244,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0926-flip-string-to-monotone-increasing](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0935-knight-dialer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0935-knight-dialer/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
