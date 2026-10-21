@@ -224,6 +224,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0966-vowel-spellchecker](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0966-vowel-spellchecker/) | Medium |
 | [0970-powerful-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0970-powerful-integers/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +280,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [0966-vowel-spellchecker](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0966-vowel-spellchecker/) | Medium |
 | [0972-equal-rational-numbers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0972-equal-rational-numbers/) | Hard |
+| [0981-time-based-key-value-store](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +348,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0919-complete-binary-tree-inserter](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +449,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
