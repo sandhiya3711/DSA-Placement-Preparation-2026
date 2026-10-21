@@ -186,6 +186,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +243,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0942-di-string-match](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
+| [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
