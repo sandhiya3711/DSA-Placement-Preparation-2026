@@ -171,6 +171,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0927-three-equal-parts](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0927-three-equal-parts/) | Hard |
 | [0929-unique-email-addresses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0929-unique-email-addresses/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0923-3sum-with-multiplicity](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0929-unique-email-addresses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0929-unique-email-addresses/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,4 +288,12 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 <!---LeetCode Topics End-->
