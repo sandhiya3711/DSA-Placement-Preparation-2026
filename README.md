@@ -213,6 +213,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0994-rotting-oranges/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +238,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0991-broken-calculator](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0991-broken-calculator/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +337,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 | [0978-longest-turbulent-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -518,6 +522,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -546,6 +551,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -604,4 +610,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 <!---LeetCode Topics End-->
