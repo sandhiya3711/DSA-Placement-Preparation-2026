@@ -226,6 +226,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1014-best-sightseeing-pair](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +440,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1006-clumsy-factorial](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1006-clumsy-factorial/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -617,6 +619,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0962-maximum-width-ramp](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -666,4 +669,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
