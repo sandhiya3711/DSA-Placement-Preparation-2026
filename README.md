@@ -205,6 +205,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0917-reverse-only-letters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0917-reverse-only-letters/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0925-long-pressed-name](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0925-long-pressed-name/) | Easy |
+| [0926-flip-string-to-monotone-increasing](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +222,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0920-number-of-music-playlists](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0920-number-of-music-playlists/) | Hard |
+| [0926-flip-string-to-monotone-increasing](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
