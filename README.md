@@ -271,6 +271,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0991-broken-calculator](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0991-broken-calculator/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1006-clumsy-factorial](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1006-clumsy-factorial/) | Medium |
+| [1012-numbers-with-repeated-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +355,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0983-minimum-cost-for-tickets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1012-numbers-with-repeated-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
