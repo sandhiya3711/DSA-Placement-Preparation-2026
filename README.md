@@ -212,6 +212,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0990-satisfiability-of-equality-equations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0994-rotting-oranges/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +341,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0933-number-of-recent-calls](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0936-stamping-the-sequence](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0936-stamping-the-sequence/) | Hard |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,11 +469,13 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -541,6 +545,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0957-prison-cells-after-n-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,4 +600,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0986-interval-list-intersections/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 <!---LeetCode Topics End-->
