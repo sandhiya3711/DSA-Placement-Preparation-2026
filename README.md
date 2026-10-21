@@ -179,6 +179,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0941-valid-mountain-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0941-valid-mountain-array/) | Easy |
 | [0942-di-string-match](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0942-di-string-match/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0937-reorder-data-in-log-files](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0942-di-string-match](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0942-di-string-match/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,4 +347,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 <!---LeetCode Topics End-->
