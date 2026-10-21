@@ -211,6 +211,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0989-add-to-array-form-of-integer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0990-satisfiability-of-equality-equations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +367,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0994-rotting-oranges/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +478,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0931-minimum-falling-path-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0934-shortest-bridge/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
+| [0994-rotting-oranges](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0994-rotting-oranges/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
