@@ -230,6 +230,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0974-subarray-sums-divisible-by-k](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0981-time-based-key-value-store/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +344,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +353,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0934-shortest-bridge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0934-shortest-bridge/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +370,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +416,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +428,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
