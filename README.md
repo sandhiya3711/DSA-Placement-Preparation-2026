@@ -315,6 +315,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +337,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +385,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
