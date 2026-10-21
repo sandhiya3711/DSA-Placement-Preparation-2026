@@ -175,6 +175,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0920-number-of-music-playlists](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0920-number-of-music-playlists/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0920-number-of-music-playlists](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0920-number-of-music-playlists/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,4 +234,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0919-complete-binary-tree-inserter](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0919-complete-binary-tree-inserter/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0920-number-of-music-playlists](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0920-number-of-music-playlists/) | Hard |
 <!---LeetCode Topics End-->
