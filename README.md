@@ -166,6 +166,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0915-partition-array-into-disjoint-intervals](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
 | [0916-word-subsets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0916-word-subsets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0917-reverse-only-letters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0917-reverse-only-letters/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +253,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 <!---LeetCode Topics End-->
