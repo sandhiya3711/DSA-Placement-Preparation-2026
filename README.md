@@ -216,6 +216,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [0997-find-the-town-judge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0997-find-the-town-judge/) | Easy |
 | [1000-minimum-cost-to-merge-stones](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1001-grid-illumination](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1001-grid-illumination/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [0997-find-the-town-judge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0997-find-the-town-judge/) | Easy |
+| [1001-grid-illumination](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1001-grid-illumination/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
