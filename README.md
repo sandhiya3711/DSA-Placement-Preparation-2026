@@ -180,6 +180,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0941-valid-mountain-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0941-valid-mountain-array/) | Easy |
 | [0942-di-string-match](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0936-stamping-the-sequence](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0936-stamping-the-sequence/) | Hard |
 | [0942-di-string-match](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0942-di-string-match/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +311,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0923-3sum-with-multiplicity](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
