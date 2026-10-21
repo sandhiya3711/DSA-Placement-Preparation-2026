@@ -229,6 +229,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0963-minimum-area-rectangle-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0964-least-operators-to-express-number](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0964-least-operators-to-express-number/) | Hard |
 | [0970-powerful-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0970-powerful-integers/) | Medium |
+| [0972-equal-rational-numbers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0972-equal-rational-numbers/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +268,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [0966-vowel-spellchecker](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0966-vowel-spellchecker/) | Medium |
+| [0972-equal-rational-numbers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0972-equal-rational-numbers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
