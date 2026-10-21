@@ -365,6 +365,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [0998-maximum-binary-tree-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0998-maximum-binary-tree-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +396,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [0998-maximum-binary-tree-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0998-maximum-binary-tree-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
