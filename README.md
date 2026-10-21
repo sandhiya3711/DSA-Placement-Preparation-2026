@@ -188,6 +188,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0944-delete-columns-to-make-sorted](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +322,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
