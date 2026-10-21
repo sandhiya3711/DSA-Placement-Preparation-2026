@@ -288,6 +288,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0972-equal-rational-numbers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0972-equal-rational-numbers/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0981-time-based-key-value-store/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +346,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +373,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +432,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -490,6 +494,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
+| [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
