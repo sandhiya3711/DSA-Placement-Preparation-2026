@@ -165,6 +165,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
 | [0916-word-subsets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0916-word-subsets/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +200,20 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0917-reverse-only-letters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0917-reverse-only-letters/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
