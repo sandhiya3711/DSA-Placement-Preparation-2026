@@ -239,6 +239,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +257,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0919-complete-binary-tree-inserter](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0919-complete-binary-tree-inserter/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,4 +307,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0931-minimum-falling-path-sum/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
