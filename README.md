@@ -206,6 +206,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +472,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
