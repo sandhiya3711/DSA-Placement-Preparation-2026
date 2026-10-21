@@ -310,6 +310,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,6 +417,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0946-validate-stack-sequences](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
