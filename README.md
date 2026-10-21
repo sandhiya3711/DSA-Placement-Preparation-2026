@@ -225,6 +225,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1014-best-sightseeing-pair](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -600,6 +601,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
