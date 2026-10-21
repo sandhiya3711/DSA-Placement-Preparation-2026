@@ -223,6 +223,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +447,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0991-broken-calculator](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0991-broken-calculator/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
