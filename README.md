@@ -187,6 +187,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0950-reveal-cards-in-increasing-order](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +319,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0942-di-string-match](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0942-di-string-match/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0948-bag-of-tokens/) | Medium |
+| [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +334,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0948-bag-of-tokens/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
