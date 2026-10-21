@@ -228,6 +228,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1018-binary-prefix-divisible-by-5](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1020-number-of-enclaves/) | Medium |
+| [1023-camelcase-matching](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1023-camelcase-matching/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +330,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1023-camelcase-matching](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1023-camelcase-matching/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +344,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0986-interval-list-intersections/) | Medium |
+| [1023-camelcase-matching](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1023-camelcase-matching/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -684,4 +687,12 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1023-camelcase-matching](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1023-camelcase-matching/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1023-camelcase-matching](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1023-camelcase-matching/) | Medium |
 <!---LeetCode Topics End-->
