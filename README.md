@@ -395,6 +395,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0998-maximum-binary-tree-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0998-maximum-binary-tree-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +429,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0998-maximum-binary-tree-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0998-maximum-binary-tree-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -500,6 +502,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1020-number-of-enclaves/) | Medium |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
