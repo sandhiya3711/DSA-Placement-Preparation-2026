@@ -214,6 +214,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0994-rotting-oranges](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0994-rotting-oranges/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
+| [0997-find-the-town-judge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
+| [0997-find-the-town-judge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0997-find-the-town-judge/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +469,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [0997-find-the-town-judge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0997-find-the-town-judge/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
