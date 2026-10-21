@@ -203,6 +203,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +437,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0934-shortest-bridge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0934-shortest-bridge/) | Medium |
+| [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,6 +469,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
+| [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +495,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,4 +542,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
