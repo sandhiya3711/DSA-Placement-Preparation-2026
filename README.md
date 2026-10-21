@@ -201,6 +201,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0974-subarray-sums-divisible-by-k](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +288,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0948-bag-of-tokens](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0948-bag-of-tokens/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +394,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
