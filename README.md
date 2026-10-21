@@ -190,6 +190,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
+| [0957-prison-cells-after-n-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0957-prison-cells-after-n-days/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +205,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0957-prison-cells-after-n-days/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0932-beautiful-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0932-beautiful-array/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [0957-prison-cells-after-n-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0957-prison-cells-after-n-days/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,4 +423,12 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0957-prison-cells-after-n-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0957-prison-cells-after-n-days/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0957-prison-cells-after-n-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0957-prison-cells-after-n-days/) | Medium |
 <!---LeetCode Topics End-->
