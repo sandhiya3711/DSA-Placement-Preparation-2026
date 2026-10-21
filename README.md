@@ -236,6 +236,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0920-number-of-music-playlists](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0920-number-of-music-playlists/) | Hard |
 | [0926-flip-string-to-monotone-increasing](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0935-knight-dialer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0935-knight-dialer/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
