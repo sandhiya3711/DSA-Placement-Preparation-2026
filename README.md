@@ -194,4 +194,9 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0916-word-subsets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0916-word-subsets/) | Medium |
+| [0917-reverse-only-letters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0917-reverse-only-letters/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0917-reverse-only-letters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0917-reverse-only-letters/) | Easy |
 <!---LeetCode Topics End-->
