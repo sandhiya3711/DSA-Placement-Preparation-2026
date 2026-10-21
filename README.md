@@ -305,6 +305,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0919-complete-binary-tree-inserter](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +313,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0934-shortest-bridge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0934-shortest-bridge/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +325,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0919-complete-binary-tree-inserter](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0919-complete-binary-tree-inserter/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +369,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0934-shortest-bridge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0934-shortest-bridge/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
