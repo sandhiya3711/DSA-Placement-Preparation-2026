@@ -217,6 +217,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0997-find-the-town-judge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0997-find-the-town-judge/) | Easy |
 | [1000-minimum-cost-to-merge-stones](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1001-grid-illumination](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1001-grid-illumination/) | Hard |
+| [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +245,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [0997-find-the-town-judge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0997-find-the-town-judge/) | Easy |
 | [1001-grid-illumination](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1001-grid-illumination/) | Hard |
+| [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +309,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0984-string-without-aaa-or-bbb](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
