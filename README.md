@@ -218,6 +218,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1000-minimum-cost-to-merge-stones](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1001-grid-illumination](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1001-grid-illumination/) | Hard |
 | [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -488,6 +489,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0978-longest-turbulent-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -495,6 +497,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0974-subarray-sums-divisible-by-k](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +514,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
