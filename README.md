@@ -215,6 +215,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [0997-find-the-town-judge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0997-find-the-town-judge/) | Easy |
+| [1000-minimum-cost-to-merge-stones](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +341,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0978-longest-turbulent-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
+| [1000-minimum-cost-to-merge-stones](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +487,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1000-minimum-cost-to-merge-stones](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
