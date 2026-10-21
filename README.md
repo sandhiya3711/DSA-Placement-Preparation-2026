@@ -210,6 +210,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0986-interval-list-intersections](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0986-interval-list-intersections/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0990-satisfiability-of-equality-equations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0981-time-based-key-value-store](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0981-time-based-key-value-store/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,6 +460,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
