@@ -254,6 +254,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1001-grid-illumination](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1001-grid-illumination/) | Hard |
 | [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +323,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0990-satisfiability-of-equality-equations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -510,6 +512,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0992-subarrays-with-k-different-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,6 +598,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
