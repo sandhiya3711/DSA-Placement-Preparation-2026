@@ -177,6 +177,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0934-shortest-bridge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0934-shortest-bridge/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0941-valid-mountain-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0941-valid-mountain-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
