@@ -185,6 +185,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0948-bag-of-tokens](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0948-bag-of-tokens/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0927-three-equal-parts](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0927-three-equal-parts/) | Hard |
 | [0932-beautiful-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0932-beautiful-array/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +217,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +340,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,4 +392,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 <!---LeetCode Topics End-->
