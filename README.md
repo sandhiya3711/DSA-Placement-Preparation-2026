@@ -208,6 +208,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0983-minimum-cost-for-tickets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
 | [0986-interval-list-intersections](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0986-interval-list-intersections/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +248,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0972-equal-rational-numbers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0972-equal-rational-numbers/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
