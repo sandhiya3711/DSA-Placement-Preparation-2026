@@ -355,6 +355,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0979-distribute-coins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +365,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0979-distribute-coins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +445,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0979-distribute-coins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
