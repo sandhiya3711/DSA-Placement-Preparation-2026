@@ -204,12 +204,14 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0916-word-subsets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0916-word-subsets/) | Medium |
 | [0917-reverse-only-letters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0917-reverse-only-letters/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0925-long-pressed-name](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0925-long-pressed-name/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0917-reverse-only-letters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0917-reverse-only-letters/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [0925-long-pressed-name](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0925-long-pressed-name/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
