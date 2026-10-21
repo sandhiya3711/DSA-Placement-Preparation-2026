@@ -169,6 +169,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0922-sort-array-by-parity-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
+| [0927-three-equal-parts](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0927-three-equal-parts/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0920-number-of-music-playlists](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0920-number-of-music-playlists/) | Hard |
+| [0927-three-equal-parts](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0927-three-equal-parts/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
