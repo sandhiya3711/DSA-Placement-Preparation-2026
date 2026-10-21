@@ -197,6 +197,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0963-minimum-area-rectangle-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0966-vowel-spellchecker](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0966-vowel-spellchecker/) | Medium |
 | [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +231,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0964-least-operators-to-express-number](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0964-least-operators-to-express-number/) | Hard |
 | [0970-powerful-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0970-powerful-integers/) | Medium |
 | [0972-equal-rational-numbers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0972-equal-rational-numbers/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +287,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0932-beautiful-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0932-beautiful-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +381,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0950-reveal-cards-in-increasing-order](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +429,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,4 +492,16 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
