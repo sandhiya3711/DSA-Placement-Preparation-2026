@@ -196,6 +196,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0962-maximum-width-ramp](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0966-vowel-spellchecker](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0966-vowel-spellchecker/) | Medium |
+| [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0942-di-string-match](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0948-bag-of-tokens/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,6 +355,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0948-bag-of-tokens](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +371,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0948-bag-of-tokens](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0948-bag-of-tokens/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
