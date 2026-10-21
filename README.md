@@ -191,6 +191,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
 | [0957-prison-cells-after-n-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +253,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +278,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0935-knight-dialer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0935-knight-dialer/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
