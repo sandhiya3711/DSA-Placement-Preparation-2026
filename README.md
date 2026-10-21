@@ -164,10 +164,12 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0915-partition-array-into-disjoint-intervals/) | Medium |
+| [0916-word-subsets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0916-word-subsets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0916-word-subsets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0916-word-subsets/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +190,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0916-word-subsets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0916-word-subsets/) | Medium |
 <!---LeetCode Topics End-->
