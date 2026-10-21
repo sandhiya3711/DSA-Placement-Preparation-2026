@@ -219,6 +219,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1001-grid-illumination](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1001-grid-illumination/) | Hard |
 | [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +434,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [0991-broken-calculator](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0991-broken-calculator/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +456,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
