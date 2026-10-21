@@ -267,6 +267,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0989-add-to-array-form-of-integer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0991-broken-calculator](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0991-broken-calculator/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0996-number-of-squareful-arrays/) | Hard |
+| [1006-clumsy-factorial](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1006-clumsy-factorial/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +421,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0962-maximum-width-ramp](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
+| [1006-clumsy-factorial](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1006-clumsy-factorial/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -534,6 +536,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0946-validate-stack-sequences](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0985-sum-of-even-numbers-after-queries/) | Medium |
+| [1006-clumsy-factorial](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1006-clumsy-factorial/) | Medium |
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
