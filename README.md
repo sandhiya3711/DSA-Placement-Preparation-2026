@@ -199,6 +199,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +304,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [0964-least-operators-to-express-number](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0964-least-operators-to-express-number/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
+| [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +358,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0936-stamping-the-sequence](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0936-stamping-the-sequence/) | Hard |
 | [0946-validate-stack-sequences](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +387,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0954-array-of-doubled-pairs](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,6 +491,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0962-maximum-width-ramp](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0962-maximum-width-ramp/) | Medium |
+| [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,4 +512,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 <!---LeetCode Topics End-->
