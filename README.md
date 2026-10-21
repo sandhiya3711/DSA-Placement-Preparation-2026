@@ -181,6 +181,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0942-di-string-match](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +294,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0936-stamping-the-sequence](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0936-stamping-the-sequence/) | Hard |
+| [0946-validate-stack-sequences](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,4 +357,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0946-validate-stack-sequences](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0946-validate-stack-sequences/) | Medium |
 <!---LeetCode Topics End-->
