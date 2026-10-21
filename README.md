@@ -170,6 +170,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0923-3sum-with-multiplicity](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0927-three-equal-parts](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0927-three-equal-parts/) | Hard |
+| [0929-unique-email-addresses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0929-unique-email-addresses/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0916-word-subsets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0916-word-subsets/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
+| [0929-unique-email-addresses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0929-unique-email-addresses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0925-long-pressed-name](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0925-long-pressed-name/) | Easy |
 | [0926-flip-string-to-monotone-increasing](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
+| [0929-unique-email-addresses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0929-unique-email-addresses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
