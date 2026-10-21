@@ -222,6 +222,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +528,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0981-time-based-key-value-store](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
