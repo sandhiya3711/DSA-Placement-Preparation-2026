@@ -176,6 +176,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0932-beautiful-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0932-beautiful-array/) | Medium |
 | [0934-shortest-bridge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0934-shortest-bridge/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0937-reorder-data-in-log-files/) | Medium |
+| [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +186,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0924-minimize-malware-spread](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0929-unique-email-addresses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +194,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0920-number-of-music-playlists](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0920-number-of-music-playlists/) | Hard |
 | [0927-three-equal-parts](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0927-three-equal-parts/) | Hard |
 | [0932-beautiful-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0932-beautiful-array/) | Medium |
+| [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -295,6 +298,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0922-sort-array-by-parity-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0937-reorder-data-in-log-files/) | Medium |
+| [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,4 +334,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0938-range-sum-of-bst](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0938-range-sum-of-bst/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0939-minimum-area-rectangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0939-minimum-area-rectangle/) | Medium |
 <!---LeetCode Topics End-->
