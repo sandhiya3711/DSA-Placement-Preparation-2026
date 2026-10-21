@@ -328,6 +328,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1016-binary-string-with-substrings-representing-1-to-n/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -443,6 +444,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1006-clumsy-factorial](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1006-clumsy-factorial/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +466,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
