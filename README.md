@@ -291,6 +291,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0956-tallest-billboard](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0956-tallest-billboard/) | Hard |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [0964-least-operators-to-express-number](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0964-least-operators-to-express-number/) | Hard |
+| [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +310,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0938-range-sum-of-bst](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +331,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0938-range-sum-of-bst](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,6 +376,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0938-range-sum-of-bst](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,4 +471,8 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0964-least-operators-to-express-number](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0964-least-operators-to-express-number/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
 <!---LeetCode Topics End-->
