@@ -215,6 +215,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0963-minimum-area-rectangle-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0966-vowel-spellchecker](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0966-vowel-spellchecker/) | Medium |
+| [0970-powerful-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0970-powerful-integers/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0957-prison-cells-after-n-days](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0964-least-operators-to-express-number](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0964-least-operators-to-express-number/) | Hard |
+| [0970-powerful-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0970-powerful-integers/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +441,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0949-largest-time-for-given-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0949-largest-time-for-given-digits/) | Medium |
+| [0970-powerful-integers](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0970-powerful-integers/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
