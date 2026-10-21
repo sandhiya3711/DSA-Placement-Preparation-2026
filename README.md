@@ -220,6 +220,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1002-find-common-characters](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -437,6 +438,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0984-string-without-aaa-or-bbb](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [0991-broken-calculator](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0991-broken-calculator/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
