@@ -227,6 +227,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1014-best-sightseeing-pair](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1020-number-of-enclaves/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +405,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1020-number-of-enclaves/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -494,6 +496,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1020-number-of-enclaves](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -501,6 +504,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0990-satisfiability-of-equality-equations](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +536,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0934-shortest-bridge](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0934-shortest-bridge/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1020-number-of-enclaves/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
