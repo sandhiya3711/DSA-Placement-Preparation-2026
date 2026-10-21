@@ -250,6 +250,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0973-k-closest-points-to-origin](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [0991-broken-calculator](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0991-broken-calculator/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,6 +404,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0969-pancake-sorting](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0969-pancake-sorting/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [0991-broken-calculator](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0991-broken-calculator/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
