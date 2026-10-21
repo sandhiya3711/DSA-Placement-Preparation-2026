@@ -277,6 +277,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [1006-clumsy-factorial](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1006-clumsy-factorial/) | Medium |
 | [1012-numbers-with-repeated-digits](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1012-numbers-with-repeated-digits/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1017-convert-to-base-2](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/1017-convert-to-base-2/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
