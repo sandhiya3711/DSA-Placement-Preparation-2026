@@ -205,6 +205,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0978-longest-turbulent-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0980-unique-paths-iii/) | Hard |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
+| [0983-minimum-cost-for-tickets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +317,7 @@ This repository serves as a public record of my consistency, problem-solving pra
 | [0968-binary-tree-cameras](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0975-odd-even-jump](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0975-odd-even-jump/) | Hard |
 | [0978-longest-turbulent-subarray](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/sandhiya3711/DSA-Placement-Preparation-2026/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
